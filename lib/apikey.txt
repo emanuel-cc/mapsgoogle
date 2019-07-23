@@ -1,0 +1,14 @@
+api key: AIzaSyBOGu2fkb07-Rv7g8R_lU5xSwCOMdQ-anE
+
+crear api key:
+https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+https://console.cloud.google.com/google/maps-apis/apis/maps-android-backend.googleapis.com/credentials?project=login-f0264&folder&organizationId&duration=PT1H
+
+https://console.cloud.google.com/google/maps-apis/new?project=login-f0264&folder&organizationId
+
+Android:
+https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+iOS:
+https://developers.google.com/maps/documentation/ios-sdk/get-api-key
